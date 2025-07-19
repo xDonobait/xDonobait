@@ -1,7 +1,6 @@
 <h1 align="center">Dono</h1>
 <h3 align="center">Systems Engineering Student & Trainee Developer at Tiendana POS.</h3>
 
-
 <p><img align="right" src="https://media.tenor.com/_zZfUQjKJtoAAAAj/noesmio-kirby.gif" alt="kirby" /></p>
 
 <br>
@@ -68,10 +67,11 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
   </a>
+  <!-- Discord -->
+  <a href="https://discord.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="discord" width="40" height="40" />
+  </a>
 </p>
-
-
-<br>
 
 <h3>Statistical Data :</h3>
 
