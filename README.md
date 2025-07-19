@@ -1,11 +1,8 @@
 <h1 align="center">Dono</h1>
-<h3 align="center">Student & Trainee Dev</h3>
+<h3 align="center">Systems Engineering Student & Trainee Developer at Tiendana POS.</h3>
 
 
 <p><img align="right" src="https://media.tenor.com/_zZfUQjKJtoAAAAj/noesmio-kirby.gif" alt="kirby" /></p>
-
-- Systems Engineering Student & Trainee Developer at Tiendana POS.
-- Music and anime lover.
 
 <br>
 
