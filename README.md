@@ -67,10 +67,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
   </a>
-  <!-- Discord -->
-  <a href="https://discord.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="discord" width="40" height="40" />
-  </a>
 </p>
 
 <h3>Statistical Data :</h3>
