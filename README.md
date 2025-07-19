@@ -4,7 +4,7 @@
 
 <p><img align="right" src="https://media.tenor.com/_zZfUQjKJtoAAAAj/noesmio-kirby.gif" alt="kirby" /></p>
 
-- Systems Engineering student in sixth semester. Currently doing an internship at Tiendana POS.
+- Systems Engineering Student & Trainee Developer at Tiendana POS.
 - Music and anime lover.
 
 <br>
