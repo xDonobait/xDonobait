@@ -1,7 +1,7 @@
 <h1 align="center">Dono</h1>
 <h3 align="center">Systems Engineering Student & Trainee Developer at Tiendana POS.</h3>
 
-<p><img align="right" src="[https://media.tenor.com/_zZfUQjKJtoAAAAj/noesmio-kirby.gif](https://i.kym-cdn.com/photos/images/original/000/670/312/861.gif)" alt="kirby" /></p>
+<p><img align="right" src="https://i.kym-cdn.com/photos/images/original/000/670/312/861.gif" alt="kirby" /></p>
 
 <br>
 
