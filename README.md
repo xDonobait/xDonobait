@@ -8,7 +8,7 @@ class Developer:
         self.company = "Tiendana S.A.S"
     
     def say_hi(self):
-        print("ONE COMMIT AT A TIME")
+        print("Debugging my life one commit at a time.")
 
 me = Developer()
 me.say_hi()
