@@ -2,7 +2,7 @@
 class Developer:
     def __init__(self):
         self.name = "Donoban"
-        self.role = "Frontend Developer"
+        self.role = "Developer"
         self.location = "Colombia 🇨🇴"
         self.education = "Systems Engineering Student"
         self.company = "Tiendana S.A.S"
