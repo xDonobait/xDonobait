@@ -67,10 +67,3 @@ me.say_hi()
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
 </p>
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=xDonobait&theme=tokyonight-duo&hide_border=true&border_radius=5.2&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-</div>
-
