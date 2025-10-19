@@ -70,7 +70,7 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xDonobait&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xDonobait&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
