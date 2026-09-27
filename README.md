@@ -1,16 +1,14 @@
-div align="center">
+<div align="center">
 
 # DONOBAN ANDRÉS PERALTA GUTIÉRREZ
 
 ### Full Stack Web Developer · Mid-Senior
 
-`FRONTEND-ORIENTED` &nbsp; / &nbsp; `SYSTEMS ENGINEERING · 8TH SEMESTER`
 
 [PORTFOLIO](https://donobait.tech)
 
 </div>
 
----
 
 <div align="center">
 
@@ -18,7 +16,6 @@ div align="center">
 |:---:|:---:|:---:|
 | Building for the web | Primary focus | Systems Engineering |
 
-I build web interfaces and tools with attention to clean code and thoughtful design.
 
 </div>
 
@@ -44,12 +41,3 @@ I build web interfaces and tools with attention to clean code and thoughtful des
 
 </div>
 
----
-
-<div align="center">
-
-`THOUGHTFUL INTERFACES` &nbsp; → &nbsp; `CLEAN CODE` &nbsp; → &nbsp; `WEB PRODUCTS`
-
-[donobait.tech](https://donobait.tech)
-
-</div>
