@@ -2,7 +2,7 @@
 
 # DONOBAN ANDRÉS PERALTA GUTIÉRREZ
 
-### Full Stack Web Developer · Mid-Senior
+### Full Stack Web Developer
 
 
 [PORTFOLIO](https://donobait.tech)
